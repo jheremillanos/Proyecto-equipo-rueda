@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+registro_estudiantes.json
+*.log
+.venv/
